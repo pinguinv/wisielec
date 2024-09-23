@@ -1,0 +1,7 @@
+.won {
+  @apply bg-green-400 shadow-green-600 hover:bg-green-500 hover:shadow-green-700;
+}
+
+.lost {
+  @apply bg-red-500 text-red-950 shadow-red-700 hover:bg-red-600 hover:shadow-red-800;
+}
